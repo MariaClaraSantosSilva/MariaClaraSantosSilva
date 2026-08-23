@@ -3,7 +3,7 @@
 </div>
 
 ###
-https://github.com/user-attachments/assets/1c9bee81-56b7-4baf-80f8-8eefa9c1cf8c
+
 <h4 data-importer="text" align="left">Hi, I'm Maria Clara, a developer continuously learning and building. I'm currently pursuing a Bachelor's degree in Information Systems at the University of Pernambuco (UPE). <br>Passionate about technology, data, and problem-solving, I'm focusing my journey on software development and data analysis with Python and Java, always looking for new challenges to expand my skills.<br>This is where I share what I'm learning and building as I grow in tech.</h4>
 
 ###
