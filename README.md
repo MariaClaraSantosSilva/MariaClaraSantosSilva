@@ -1,8 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
 
 <h4 data-importer="text" align="left">Hi, I'm Maria Clara, a developer continuously learning and building. I'm currently pursuing a Bachelor's degree in Information Systems at the University of Pernambuco (UPE). <br>Passionate about technology, data, and problem-solving, I'm focusing my journey on software development and data analysis with Python and Java, always looking for new challenges to expand my skills.<br>This is where I share what I'm learning and building as I grow in tech.</h4>
 
