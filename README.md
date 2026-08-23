@@ -1,29 +1,53 @@
-<!-- Banner Animado Ajustado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=330132&height=200&section=header&text=Sistemas%20de%20Informação%20-%20UPE&fontSize=22&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Python%20•%20Java%20•%20Git%20🚀&descY=65&descAlign=50&stroke=FC3D78&strokeWidth=1" width="100%"/>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<br>
+###
+https://github.com/user-attachments/assets/1c9bee81-56b7-4baf-80f8-8eefa9c1cf8c
+<h4 data-importer="text" align="left">Hi, I'm Maria Clara, a developer continuously learning and building. I'm currently pursuing a Bachelor's degree in Information Systems at the University of Pernambuco (UPE). <br>Passionate about technology, data, and problem-solving, I'm focusing my journey on software development and data analysis with Python and Java, always looking for new challenges to expand my skills.<br>This is where I share what I'm learning and building as I grow in tech.</h4>
 
-<!-- GIF de Sakura e Pétalas Animadas -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreTlxeXV1aHBrcDVyZXB3cXJxcDRuamtkdndyeTlxeXV1aHBrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUxJ9XVGY0SYSue/giphy.gif" width="60%" />
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
 
-<br>
+###
 
-<!-- Badges de Tecnologias em Tons de Rosa e Roxo -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E06666?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-D5A6BD?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-4C1130?style=for-the-badge&logo=github&logoColor=white" />
+<h3 data-importer="text" align="left">Languages and Tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<br><br>
+###
 
-<!-- Cartões de Estatísticas no Tema Cherry -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSantosSilva&show_icons=true&theme=cherry&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSantosSilva&layout=compact&theme=cherry&hide_border=true&langs_count=7" height="150" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MariaClaraSantosSilva/MariaClaraSantosSilva/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MariaClaraSantosSilva/MariaClaraSantosSilva/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MariaClaraSantosSilva&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MariaClaraSantosSilva.MariaClaraSantosSilva&right_color=aliceblue"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
